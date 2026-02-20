@@ -1,0 +1,494 @@
+{
+  "start": {
+    "text": "ආයුබෝවන් සාමාන්‍ය පෙළ පසුගිය විභාග ප්‍රශ්ණපත්‍ර bot වෙත සාදරයෙන් පිලිගනිමු😊💙\nඉදිරියට යෑමට පහත මෙනුව භාවිත කරන්න🔽✅",
+    "buttons": [
+      { "label": "සාමාන්‍ය පෙළ PastPapers", "action": "subjectMenu" },
+      { "label": "උසස් පෙළ PastPapers", "action": "alInfo" },
+      { "label": "අප ගැන", "action": "aboutUs" },
+      { "label": "අපව සම්බන්ධ කරගන්න", "action": "contactUs" },
+      { "label": "YouTube චැනල් එක", "action": "youtube" },
+      { "label": "ගැටලුවක් වාර්තා කරන්න", "action": "reportError" }
+    ]
+  },
+
+  "mainMenu": {
+    "text": "ඉදිරියට යෑමට පහත මෙනුව භාවිත කරන්න🔽✅",
+    "buttons": [
+      { "label": "සාමාන්‍ය පෙළ PastPapers", "action": "subjectMenu" },
+      { "label": "උසස් පෙළ PastPapers", "action": "alInfo" },
+      { "label": "අප ගැන", "action": "aboutUs" },
+      { "label": "අපව සම්බන්ධ කරගන්න", "action": "contactUs" },
+      { "label": "YouTube චැනල් එක", "action": "youtube" },
+      { "label": "ගැටලුවක් වාර්තා කරන්න", "action": "reportError" }
+    ]
+  },
+
+  "alInfo": {
+    "text": "උසස් පෙළ ප්‍රශ්ණපත්‍ර ලබා ගැනීමට කරුණාකර @PastPapersALbot භාවිත කරන්න 💪✅",
+    "buttons": [
+      { "label": "සාමාන්‍ය පෙළ PastPapers", "action": "subjectMenu" },
+      { "label": "උසස් පෙළ PastPapers", "action": "alInfo" },
+      { "label": "අප ගැන", "action": "aboutUs" },
+      { "label": "අපව සම්බන්ධ කරගන්න", "action": "contactUs" },
+      { "label": "YouTube චැනල් එක", "action": "youtube" },
+      { "label": "ගැටලුවක් වාර්තා කරන්න", "action": "reportError" }
+    ]
+  },
+
+  "aboutUs": {
+    "text": "අප ගැන...!😁\n\nඅපි ගැන හැදින්වීමක් කලොත්\nමේ Botව හදන මම පසිදු සදරුවන්.😉\n\nමම 2K21' වල O/L කලා..😁. මගේ සහෝදර සහෝදරියන්ට හෙල්ප් එකක් දෙන්න තමා මේ Bot හැදුවේ..!☺️\n(සෙට් එකම ගොඩයන්න ඕනේ😎 තනියෙන් ගොඩගිහිම් වැඩක් නෑ..😍)\n\nමම තාක්ෂණික පැතිකඩ ගැන YouTube Channel එකකුත් කරනවා😁\nyoutube.com/slrealtech\nකැමතිනම් ඒකත් Subscribe කරගෙන යන්න🥰)\n\nඉතින් තව අපේ Admin Crew එකක් ඉන්නවා..!👊\n\n⭕️Pasindu Sandaruwan [MR_Tech]\n(මම🙃)\n\n⭕️Nimesh Madushanka [MR_Nima]\n(හැමදේම කියල දීපු එකා😎 Programmer)\n\n⭕️Sahani Sooriarachchi\n(Past Papers හොයන්න😎)\n\n⭕️Vidusha Hirushan\n(ඕනිම දේකට උදව්වට ඉන්න එකෙක්😎)\n\n⭕️Nirasha Prabodani\n(ඕනිම දේකට උදව්වට ඉන්න එකියක්😎)\n\nමෙයාලගෙ උදව්වෙන් තමා මේ වැඩ ඔක්කොම කරගෙන යන්නේ..!🥳\nWhatsapp වගේම Telegram මේ බොට් ක්‍රියාත්මක වෙනවා..!\n\nHelp එකක් උනානම් තව කෙනෙක්ට Help එකක් දෙන්න 💛\n\nRoad to Dreams Education\n*Real Tech Solutions*",
+    "buttons": [
+      { "label": "සාමාන්‍ය පෙළ PastPapers", "action": "subjectMenu" },
+      { "label": "උසස් පෙළ PastPapers", "action": "alInfo" },
+      { "label": "අප ගැන", "action": "aboutUs" },
+      { "label": "අපව සම්බන්ධ කරගන්න", "action": "contactUs" },
+      { "label": "YouTube චැනල් එක", "action": "youtube" },
+      { "label": "ගැටලුවක් වාර්තා කරන්න", "action": "reportError" }
+    ]
+  },
+
+  "contactUs": {
+    "text": "📩 අපව සම්බන්ධ කරගන්න (Contact Us)\nඔබේ ගැටලු, යෝජනා හෝ වෙනත් ඕනෑම කරුණක් සඳහා පහත දැක්වෙන මාධ්‍ය ඔස්සේ අප හා සම්බන්ධ විය හැක.\n\n🌐 අපගේ වෙබ් අඩවිය:\nhttps://realtechsolutions.com.lk/\n\n✈️ Telegram :\nhttps://t.me/SL_Real_Tech_YT\n\n💬 WhatsApp සහාය (Support):\nhttps://wa.me/94722432522\n\n🎮 Discord Server එක:\nhttps://discord.gg/8mugdeEWe5\n\n📧 විද්‍යුත් තැපෑල (Email):\ncontact@realtechsolutions.com.lk\n\nස්තූතියි!\n\nRoad to Dreams Education\n*Real Tech Solutions*",
+    "buttons": [
+      { "label": "සාමාන්‍ය පෙළ PastPapers", "action": "subjectMenu" },
+      { "label": "උසස් පෙළ PastPapers", "action": "alInfo" },
+      { "label": "අප ගැන", "action": "aboutUs" },
+      { "label": "අපව සම්බන්ධ කරගන්න", "action": "contactUs" },
+      { "label": "YouTube චැනල් එක", "action": "youtube" },
+      { "label": "ගැටලුවක් වාර්තා කරන්න", "action": "reportError" }
+    ]
+  },
+
+  "youtube": {
+    "text": "https://youtube.com/slrealtech\nYouTube නාලිකාව Subscribe කර අපත් සමග දිගටම රැඳීසිටින්න 💛💪\n\nRoad to Dreams Education\n*Real Tech Solutions*",
+    "buttons": [
+      { "label": "සාමාන්‍ය පෙළ PastPapers", "action": "subjectMenu" },
+      { "label": "උසස් පෙළ PastPapers", "action": "alInfo" },
+      { "label": "අප ගැන", "action": "aboutUs" },
+      { "label": "අපව සම්බන්ධ කරගන්න", "action": "contactUs" },
+      { "label": "YouTube චැනල් එක", "action": "youtube" },
+      { "label": "ගැටලුවක් වාර්තා කරන්න", "action": "reportError" }
+    ]
+  },
+
+  "reportError": {
+    "text": "✈️ Telegram :\nhttps://t.me/SL_Real_Tech_YT\n\n📧 Email :\ncontact@realtechsolutions.com.lk\n\nමේ Project එක සම්බන්ද ගැටලු / Bugs අපිට කියන්න 👀✅\n\nRoad to Dreams Education\n*Real Tech Solutions*",
+    "buttons": [
+      { "label": "සාමාන්‍ය පෙළ PastPapers", "action": "subjectMenu" },
+      { "label": "උසස් පෙළ PastPapers", "action": "alInfo" },
+      { "label": "අප ගැන", "action": "aboutUs" },
+      { "label": "අපව සම්බන්ධ කරගන්න", "action": "contactUs" },
+      { "label": "YouTube චැනල් එක", "action": "youtube" },
+      { "label": "ගැටලුවක් වාර්තා කරන්න", "action": "reportError" }
+    ]
+  },
+
+  "subjectMenu": {
+    "text": "පහත මෙනුවෙන් විශය තෝරන්න🔽✅",
+    "buttons": [
+      { "label": "බුද්ධ_ධර්මය", "action": "budMenu" },
+      { "label": "සිංහල", "action": "sinMenu" },
+      { "label": "English", "action": "engMenu" },
+      { "label": "ගණිතය", "action": "mathMenu" },
+      { "label": "විද්‍යාව", "action": "sciMenu" },
+      { "label": "ඉතිහාසය", "action": "hisMenu" },
+      { "label": "පළමු_කාණ්ඩය", "action": "firstbasMenu" },
+      { "label": "දෙවන_කාණ්ඩය", "action": "secondbasMenu" },
+      { "label": "තෙවන_කාණ්ඩය", "action": "thirdbasMenu" },
+      { "label": "ප්‍රධාන_මෙනුවට", "action": "mainMenu" }
+    ]
+  },
+
+  "firstbasMenu": {
+    "text": "පහත මෙනුවෙන් විශය තෝරන්න🔽✅",
+    "buttons": [
+      { "label": "පුරවැසි_අධ්‍යාපනය", "action": "civMenu" },
+      { "label": "ව්‍යාපාර_හා_ගිණුම්කරනය", "action": "accMenu" },
+      { "label": "භූගෝල_විද්‍යාව", "action": "geoMenu" },
+      { "label": "දෙමළ", "action": "tamMenu" },
+      { "label": "පෙර_මෙනුවට", "action": "subjectMenu" }
+    ]
+  },
+
+  "secondbasMenu": {
+    "text": "පහත මෙනුවෙන් විශය තෝරන්න🔽✅",
+    "buttons": [
+      { "label": "චිත්‍ර", "action": "artMenu" },
+      { "label": "නැටුම්", "action": "danceMenu" },
+      { "label": "පෙරදිග_සංගීතය", "action": "musicMenu" },
+      { "label": "නාට්‍ය_හා_රංග_කලාව", "action": "dramaMenu" },
+      { "label": "සිංහල_රසාස්වාදය", "action": "sinLitMenu" },
+      { "label": "ඉංග්‍රීසි_රසාස්වාදය", "action": "engLitMenu" },
+      { "label": "පෙර_මෙනුවට", "action": "subjectMenu" }
+    ]
+  },
+
+  "thirdbasMenu": {
+    "text": "පහත මෙනුවෙන් විශය තෝරන්න🔽✅",
+    "buttons": [
+      { "label": "කෘෂිකර්මය", "action": "agriMenu" },
+      { "label": "සෞඛ්‍ය", "action": "healthMenu" },
+      { "label": "ගෘහ_විද්‍යාව", "action": "homeEcoMenu" },
+      { "label": "ICT", "action": "ictMenu" },
+      { "label": "මාධ්‍ය_අධ්යනය", "action": "mediaMenu" },
+      { "label": "පෙර_මෙනුවට", "action": "subjectMenu" }
+    ]
+  },
+
+  "budMenu": {
+    "text": "වර්ෂය තෝරන්න 🔽✅",
+    "buttons": [
+      { "label": "බුද්ධ_ධර්මය_2024", "action": "paper:බුද්ධ_ධර්මය_2024" },
+      { "label": "බුද්ධ_ධර්මය_2023", "action": "paper:බුද්ධ_ධර්මය_2023" },
+      { "label": "බුද්ධ_ධර්මය_2022", "action": "paper:බුද්ධ_ධර්මය_2022" },
+      { "label": "බුද්ධ_ධර්මය_2021", "action": "paper:බුද්ධ_ධර්මය_2021" },
+      { "label": "බුද්ධ_ධර්මය_2020", "action": "paper:බුද්ධ_ධර්මය_2020" },
+      { "label": "බුද්ධ_ධර්මය_2019", "action": "paper:බුද්ධ_ධර්මය_2019" },
+      { "label": "බුද්ධ_ධර්මය_2018", "action": "paper:බුද්ධ_ධර්මය_2018" },
+      { "label": "බුද්ධ_ධර්මය_2017", "action": "paper:බුද්ධ_ධර්මය_2017" },
+      { "label": "බුද්ධ_ධර්මය_2016", "action": "paper:බුද්ධ_ධර්මය_2016" },
+      { "label": "බුද්ධ_ධර්මය_2015", "action": "paper:බුද්ධ_ධර්මය_2015" },
+      { "label": "පෙර_මෙනුවට", "action": "subjectMenu" }
+    ]
+  },
+
+  "sinMenu": {
+    "text": "වර්ෂය තෝරන්න 🔽✅",
+    "buttons": [
+      { "label": "සිංහල_2024", "action": "paper:සිංහල_2024" },
+      { "label": "සිංහල_2023", "action": "paper:සිංහල_2023" },
+      { "label": "සිංහල_2022", "action": "paper:සිංහල_2022" },
+      { "label": "සිංහල_2021", "action": "paper:සිංහල_2021" },
+      { "label": "සිංහල_2020", "action": "paper:සිංහල_2020" },
+      { "label": "සිංහල_2019", "action": "paper:සිංහල_2019" },
+      { "label": "සිංහල_2018", "action": "paper:සිංහල_2018" },
+      { "label": "සිංහල_2017", "action": "paper:සිංහල_2017" },
+      { "label": "සිංහල_2016", "action": "paper:සිංහල_2016" },
+      { "label": "සිංහල_2015", "action": "paper:සිංහල_2015" },
+      { "label": "පෙර_මෙනුවට", "action": "subjectMenu" }
+    ]
+  },
+
+  "engMenu": {
+    "text": "වර්ෂය තෝරන්න 🔽✅",
+    "buttons": [
+      { "label": "English_2024", "action": "paper:English_2024" },
+      { "label": "English_2023", "action": "paper:English_2023" },
+      { "label": "English_2022", "action": "paper:English_2022" },
+      { "label": "English_2021", "action": "paper:English_2021" },
+      { "label": "English_2020", "action": "paper:English_2020" },
+      { "label": "English_2019", "action": "paper:English_2019" },
+      { "label": "English_2018", "action": "paper:English_2018" },
+      { "label": "English_2017", "action": "paper:English_2017" },
+      { "label": "English_2016", "action": "paper:English_2016" },
+      { "label": "English_2015", "action": "paper:English_2015" },
+      { "label": "පෙර_මෙනුවට", "action": "subjectMenu" }
+    ]
+  },
+
+  "mathMenu": {
+    "text": "වර්ෂය තෝරන්න 🔽✅",
+    "buttons": [
+      { "label": "ගණිතය_2024", "action": "paper:ගණිතය_2024" },
+      { "label": "ගණිතය_2023", "action": "paper:ගණිතය_2023" },
+      { "label": "ගණිතය_2022", "action": "paper:ගණිතය_2022" },
+      { "label": "ගණිතය_2021", "action": "paper:ගණිතය_2021" },
+      { "label": "ගණිතය_2020", "action": "paper:ගණිතය_2020" },
+      { "label": "ගණිතය_2019", "action": "paper:ගණිතය_2019" },
+      { "label": "ගණිතය_2018", "action": "paper:ගණිතය_2018" },
+      { "label": "ගණිතය_2017", "action": "paper:ගණිතය_2017" },
+      { "label": "ගණිතය_2016", "action": "paper:ගණිතය_2016" },
+      { "label": "ගණිතය_2015", "action": "paper:ගණිතය_2015" },
+      { "label": "පෙර_මෙනුවට", "action": "subjectMenu" }
+    ]
+  },
+
+  "sciMenu": {
+    "text": "වර්ෂය තෝරන්න 🔽✅",
+    "buttons": [
+      { "label": "විද්‍යාව_2024", "action": "paper:විද්‍යාව_2024" },
+      { "label": "විද්‍යාව_2023", "action": "paper:විද්‍යාව_2023" },
+      { "label": "විද්‍යාව_2022", "action": "paper:විද්‍යාව_2022" },
+      { "label": "විද්‍යාව_2021", "action": "paper:විද්‍යාව_2021" },
+      { "label": "විද්‍යාව_2020", "action": "paper:විද්‍යාව_2020" },
+      { "label": "විද්‍යාව_2019", "action": "paper:විද්‍යාව_2019" },
+      { "label": "විද්‍යාව_2018", "action": "paper:විද්‍යාව_2018" },
+      { "label": "විද්‍යාව_2017", "action": "paper:විද්‍යාව_2017" },
+      { "label": "විද්‍යාව_2016", "action": "paper:විද්‍යාව_2016" },
+      { "label": "විද්‍යාව_2015", "action": "paper:විද්‍යාව_2015" },
+      { "label": "පෙර_මෙනුවට", "action": "subjectMenu" }
+    ]
+  },
+
+  "hisMenu": {
+    "text": "වර්ෂය තෝරන්න 🔽✅",
+    "buttons": [
+      { "label": "ඉතිහාසය_2024", "action": "paper:ඉතිහාසය_2024" },
+      { "label": "ඉතිහාසය_2023", "action": "paper:ඉතිහාසය_2023" },
+      { "label": "ඉතිහාසය_2022", "action": "paper:ඉතිහාසය_2022" },
+      { "label": "ඉතිහාසය_2021", "action": "paper:ඉතිහාසය_2021" },
+      { "label": "ඉතිහාසය_2020", "action": "paper:ඉතිහාසය_2020" },
+      { "label": "ඉතිහාසය_2019", "action": "paper:ඉතිහාසය_2019" },
+      { "label": "ඉතිහාසය_2018", "action": "paper:ඉතිහාසය_2018" },
+      { "label": "ඉතිහාසය_2017", "action": "paper:ඉතිහාසය_2017" },
+      { "label": "ඉතිහාසය_2016", "action": "paper:ඉතිහාසය_2016" },
+      { "label": "ඉතිහාසය_2015", "action": "paper:ඉතිහාසය_2015" },
+      { "label": "පෙර_මෙනුවට", "action": "subjectMenu" }
+    ]
+  },
+
+  "civMenu": {
+    "text": "වර්ෂය තෝරන්න 🔽✅",
+    "buttons": [
+      { "label": "පුරවැසි_අධ්‍යාපනය_2024", "action": "paper:පුරවැසි_අධ්‍යාපනය_2024" },
+      { "label": "පුරවැසි_අධ්‍යාපනය_2023", "action": "paper:පුරවැසි_අධ්‍යාපනය_2023" },
+      { "label": "පුරවැසි_අධ්‍යාපනය_2022", "action": "paper:පුරවැසි_අධ්‍යාපනය_2022" },
+      { "label": "පුරවැසි_අධ්‍යාපනය_2021", "action": "paper:පුරවැසි_අධ්‍යාපනය_2021" },
+      { "label": "පුරවැසි_අධ්‍යාපනය_2020", "action": "paper:පුරවැසි_අධ්‍යාපනය_2020" },
+      { "label": "පුරවැසි_අධ්‍යාපනය_2019", "action": "paper:පුරවැසි_අධ්‍යාපනය_2019" },
+      { "label": "පුරවැසි_අධ්‍යාපනය_2018", "action": "paper:පුරවැසි_අධ්‍යාපනය_2018" },
+      { "label": "පුරවැසි_අධ්‍යාපනය_2017", "action": "paper:පුරවැසි_අධ්‍යාපනය_2017" },
+      { "label": "පුරවැසි_අධ්‍යාපනය_2016", "action": "paper:පුරවැසි_අධ්‍යාපනය_2016" },
+      { "label": "පුරවැසි_අධ්‍යාපනය_2015", "action": "paper:පුරවැසි_අධ්‍යාපනය_2015" },
+      { "label": "පෙර_මෙනුවට", "action": "subjectMenu" }
+    ]
+  },
+
+  "accMenu": {
+    "text": "වර්ෂය තෝරන්න 🔽✅",
+    "buttons": [
+      { "label": "ව්‍යාපාර_හා_ගිණුම්කරනය_2024", "action": "paper:ව්‍යාපාර_හා_ගිණුම්කරනය_2024" },
+      { "label": "ව්‍යාපාර_හා_ගිණුම්කරනය_2023", "action": "paper:ව්‍යාපාර_හා_ගිණුම්කරනය_2023" },
+      { "label": "ව්‍යාපාර_හා_ගිණුම්කරනය_2022", "action": "paper:ව්‍යාපාර_හා_ගිණුම්කරනය_2022" },
+      { "label": "ව්‍යාපාර_හා_ගිණුම්කරනය_2021", "action": "paper:ව්‍යාපාර_හා_ගිණුම්කරනය_2021" },
+      { "label": "ව්‍යාපාර_හා_ගිණුම්කරනය_2020", "action": "paper:ව්‍යාපාර_හා_ගිණුම්කරනය_2020" },
+      { "label": "ව්‍යාපාර_හා_ගිණුම්කරනය_2019", "action": "paper:ව්‍යාපාර_හා_ගිණුම්කරනය_2019" },
+      { "label": "ව්‍යාපාර_හා_ගිණුම්කරනය_2018", "action": "paper:ව්‍යාපාර_හා_ගිණුම්කරනය_2018" },
+      { "label": "ව්‍යාපාර_හා_ගිණුම්කරනය_2017", "action": "paper:ව්‍යාපාර_හා_ගිණුම්කරනය_2017" },
+      { "label": "ව්‍යාපාර_හා_ගිණුම්කරනය_2016", "action": "paper:ව්‍යාපාර_හා_ගිණුම්කරනය_2016" },
+      { "label": "ව්‍යාපාර_හා_ගිණුම්කරනය_2015", "action": "paper:ව්‍යාපාර_හා_ගිණුම්කරනය_2015" },
+      { "label": "පෙර_මෙනුවට", "action": "subjectMenu" }
+    ]
+  },
+
+  "geoMenu": {
+    "text": "වර්ෂය තෝරන්න 🔽✅",
+    "buttons": [
+      { "label": "භූගෝල_විද්‍යාව_2024", "action": "paper:භූගෝල_විද්‍යාව_2024" },
+      { "label": "භූගෝල_විද්‍යාව_2023", "action": "paper:භූගෝල_විද්‍යාව_2023" },
+      { "label": "භූගෝල_විද්‍යාව_2022", "action": "paper:භූගෝල_විද්‍යාව_2022" },
+      { "label": "භූගෝල_විද්‍යාව_2021", "action": "paper:භූගෝල_විද්‍යාව_2021" },
+      { "label": "භූගෝල_විද්‍යාව_2020", "action": "paper:භූගෝල_විද්‍යාව_2020" },
+      { "label": "භූගෝල_විද්‍යාව_2019", "action": "paper:භූගෝල_විද්‍යාව_2019" },
+      { "label": "භූගෝල_විද්‍යාව_2018", "action": "paper:භූගෝල_විද්‍යාව_2018" },
+      { "label": "භූගෝල_විද්‍යාව_2017", "action": "paper:භූගෝල_විද්‍යාව_2017" },
+      { "label": "භූගෝල_විද්‍යාව_2016", "action": "paper:භූගෝල_විද්‍යාව_2016" },
+      { "label": "භූගෝල_විද්‍යාව_2015", "action": "paper:භූගෝල_විද්‍යාව_2015" },
+      { "label": "පෙර_මෙනුවට", "action": "subjectMenu" }
+    ]
+  },
+
+  "tamMenu": {
+    "text": "වර්ෂය තෝරන්න 🔽✅",
+    "buttons": [
+      { "label": "දෙමළ_2024", "action": "paper:දෙමළ_2024" },
+      { "label": "දෙමළ_2023", "action": "paper:දෙමළ_2023" },
+      { "label": "දෙමළ_2022", "action": "paper:දෙමළ_2022" },
+      { "label": "දෙමළ_2021", "action": "paper:දෙමළ_2021" },
+      { "label": "දෙමළ_2020", "action": "paper:දෙමළ_2020" },
+      { "label": "දෙමළ_2019", "action": "paper:දෙමළ_2019" },
+      { "label": "දෙමළ_2018", "action": "paper:දෙමළ_2018" },
+      { "label": "දෙමළ_2017", "action": "paper:දෙමළ_2017" },
+      { "label": "දෙමළ_2016", "action": "paper:දෙමළ_2016" },
+      { "label": "දෙමළ_2015", "action": "paper:දෙමළ_2015" },
+      { "label": "පෙර_මෙනුවට", "action": "subjectMenu" }
+    ]
+  },
+
+  "artMenu": {
+    "text": "වර්ෂය තෝරන්න 🔽✅",
+    "buttons": [
+      { "label": "චිත්‍ර_2024", "action": "paper:චිත්‍ර_2024" },
+      { "label": "චිත්‍ර_2023", "action": "paper:චිත්‍ර_2023" },
+      { "label": "චිත්‍ර_2022", "action": "paper:චිත්‍ර_2022" },
+      { "label": "චිත්‍ර_2021", "action": "paper:චිත්‍ර_2021" },
+      { "label": "චිත්‍ර_2020", "action": "paper:චිත්‍ර_2020" },
+      { "label": "චිත්‍ර_2019", "action": "paper:චිත්‍ර_2019" },
+      { "label": "චිත්‍ර_2018", "action": "paper:චිත්‍ර_2018" },
+      { "label": "චිත්‍ර_2017", "action": "paper:චිත්‍ර_2017" },
+      { "label": "චිත්‍ර_2016", "action": "paper:චිත්‍ර_2016" },
+      { "label": "චිත්‍ර_2015", "action": "paper:චිත්‍ර_2015" },
+      { "label": "පෙර_මෙනුවට", "action": "subjectMenu" }
+    ]
+  },
+
+  "danceMenu": {
+    "text": "වර්ෂය තෝරන්න 🔽✅",
+    "buttons": [
+      { "label": "නැටුම්_2024", "action": "paper:නැටුම්_2024" },
+      { "label": "නැටුම්_2023", "action": "paper:නැටුම්_2023" },
+      { "label": "නැටුම්_2022", "action": "paper:නැටුම්_2022" },
+      { "label": "නැටුම්_2021", "action": "paper:නැටුම්_2021" },
+      { "label": "නැටුම්_2020", "action": "paper:නැටුම්_2020" },
+      { "label": "නැටුම්_2019", "action": "paper:නැටුම්_2019" },
+      { "label": "නැටුම්_2018", "action": "paper:නැටුම්_2018" },
+      { "label": "නැටුම්_2017", "action": "paper:නැටුම්_2017" },
+      { "label": "නැටුම්_2016", "action": "paper:නැටුම්_2016" },
+      { "label": "නැටුම්_2015", "action": "paper:නැටුම්_2015" },
+      { "label": "පෙර_මෙනුවට", "action": "subjectMenu" }
+    ]
+  },
+
+  "musicMenu": {
+    "text": "වර්ෂය තෝරන්න 🔽✅",
+    "buttons": [
+      { "label": "පෙරදිග_සංගීතය_2024", "action": "paper:පෙරදිග_සංගීතය_2024" },
+      { "label": "පෙරදිග_සංගීතය_2023", "action": "paper:පෙරදිග_සංගීතය_2023" },
+      { "label": "පෙරදිග_සංගීතය_2022", "action": "paper:පෙරදිග_සංගීතය_2022" },
+      { "label": "පෙරදිග_සංගීතය_2021", "action": "paper:පෙරදිග_සංගීතය_2021" },
+      { "label": "පෙරදිග_සංගීතය_2020", "action": "paper:පෙරදිග_සංගීතය_2020" },
+      { "label": "පෙරදිග_සංගීතය_2019", "action": "paper:පෙරදිග_සංගීතය_2019" },
+      { "label": "පෙරදිග_සංගීතය_2018", "action": "paper:පෙරදිග_සංගීතය_2018" },
+      { "label": "පෙරදිග_සංගීතය_2017", "action": "paper:පෙරදිග_සංගීතය_2017" },
+      { "label": "පෙරදිග_සංගීතය_2016", "action": "paper:පෙරදිග_සංගීතය_2016" },
+      { "label": "පෙරදිග_සංගීතය_2015", "action": "paper:පෙරදිග_සංගීතය_2015" },
+      { "label": "පෙර_මෙනුවට", "action": "subjectMenu" }
+    ]
+  },
+
+  "dramaMenu": {
+    "text": "වර්ෂය තෝරන්න 🔽✅",
+    "buttons": [
+      { "label": "නාට්‍ය_හා_රංග_කලාව_2024", "action": "paper:නාට්‍ය_හා_රංග_කලාව_2024" },
+      { "label": "නාට්‍ය_හා_රංග_කලාව_2023", "action": "paper:නාට්‍ය_හා_රංග_කලාව_2023" },
+      { "label": "නාට්‍ය_හා_රංග_කලාව_2022", "action": "paper:නාට්‍ය_හා_රංග_කලාව_2022" },
+      { "label": "නාට්‍ය_හා_රංග_කලාව_2021", "action": "paper:නාට්‍ය_හා_රංග_කලාව_2021" },
+      { "label": "නාට්‍ය_හා_රංග_කලාව_2020", "action": "paper:නාට්‍ය_හා_රංග_කලාව_2020" },
+      { "label": "නාට්‍ය_හා_රංග_කලාව_2019", "action": "paper:නාට්‍ය_හා_රංග_කලාව_2019" },
+      { "label": "නාට්‍ය_හා_රංග_කලාව_2018", "action": "paper:නාට්‍ය_හා_රංග_කලාව_2018" },
+      { "label": "නාට්‍ය_හා_රංග_කලාව_2017", "action": "paper:නාට්‍ය_හා_රංග_කලාව_2017" },
+      { "label": "නාට්‍ය_හා_රංග_කලාව_2016", "action": "paper:නාට්‍ය_හා_රංග_කලාව_2016" },
+      { "label": "නාට්‍ය_හා_රංග_කලාව_2015", "action": "paper:නාට්‍ය_හා_රංග_කලාව_2015" },
+      { "label": "පෙර_මෙනුවට", "action": "subjectMenu" }
+    ]
+  },
+
+  "sinLitMenu": {
+    "text": "වර්ෂය තෝරන්න 🔽✅",
+    "buttons": [
+      { "label": "සිංහල_රසාස්වාදය_2024", "action": "paper:සිංහල_රසාස්වාදය_2024" },
+      { "label": "සිංහල_රසාස්වාදය_2023", "action": "paper:සිංහල_රසාස්වාදය_2023" },
+      { "label": "සිංහල_රසාස්වාදය_2022", "action": "paper:සිංහල_රසාස්වාදය_2022" },
+      { "label": "සිංහල_රසාස්වාදය_2021", "action": "paper:සිංහල_රසාස්වාදය_2021" },
+      { "label": "සිංහල_රසාස්වාදය_2020", "action": "paper:සිංහල_රසාස්වාදය_2020" },
+      { "label": "සිංහල_රසාස්වාදය_2019", "action": "paper:සිංහල_රසාස්වාදය_2019" },
+      { "label": "සිංහල_රසාස්වාදය_2018", "action": "paper:සිංහල_රසාස්වාදය_2018" },
+      { "label": "සිංහල_රසාස්වාදය_2017", "action": "paper:සිංහල_රසාස්වාදය_2017" },
+      { "label": "සිංහල_රසාස්වාදය_2016", "action": "paper:සිංහල_රසාස්වාදය_2016" },
+      { "label": "සිංහල_රසාස්වාදය_2015", "action": "paper:සිංහල_රසාස්වාදය_2015" },
+      { "label": "පෙර_මෙනුවට", "action": "subjectMenu" }
+    ]
+  },
+
+  "engLitMenu": {
+    "text": "වර්ෂය තෝරන්න 🔽✅",
+    "buttons": [
+      { "label": "ඉංග්‍රීසි_රසාස්වාදය_2024", "action": "paper:ඉංග්‍රීසි_රසාස්වාදය_2024" },
+      { "label": "ඉංග්‍රීසි_රසාස්වාදය_2023", "action": "paper:ඉංග්‍රීසි_රසාස්වාදය_2023" },
+      { "label": "ඉංග්‍රීසි_රසාස්වාදය_2022", "action": "paper:ඉංග්‍රීසි_රසාස්වාදය_2022" },
+      { "label": "ඉංග්‍රීසි_රසාස්වාදය_2021", "action": "paper:ඉංග්‍රීසි_රසාස්වාදය_2021" },
+      { "label": "ඉංග්‍රීසි_රසාස්වාදය_2020", "action": "paper:ඉංග්‍රීසි_රසාස්වාදය_2020" },
+      { "label": "ඉංග්‍රීසි_රසාස්වාදය_2019", "action": "paper:ඉංග්‍රීසි_රසාස්වාදය_2019" },
+      { "label": "ඉංග්‍රීසි_රසාස්වාදය_2018", "action": "paper:ඉංග්‍රීසි_රසාස්වාදය_2018" },
+      { "label": "ඉංග්‍රීසි_රසාස්වාදය_2017", "action": "paper:ඉංග්‍රීසි_රසාස්වාදය_2017" },
+      { "label": "ඉංග්‍රීසි_රසාස්වාදය_2016", "action": "paper:ඉංග්‍රීසි_රසාස්වාදය_2016" },
+      { "label": "ඉංග්‍රීසි_රසාස්වාදය_2015", "action": "paper:ඉංග්‍රීසි_රසාස්වාදය_2015" },
+      { "label": "පෙර_මෙනුවට", "action": "subjectMenu" }
+    ]
+  },
+
+  "ictMenu": {
+    "text": "වර්ෂය තෝරන්න 🔽✅",
+    "buttons": [
+      { "label": "ICT_2024", "action": "paper:ICT_2024" },
+      { "label": "ICT_2023", "action": "paper:ICT_2023" },
+      { "label": "ICT_2022", "action": "paper:ICT_2022" },
+      { "label": "ICT_2021", "action": "paper:ICT_2021" },
+      { "label": "ICT_2020", "action": "paper:ICT_2020" },
+      { "label": "ICT_2019", "action": "paper:ICT_2019" },
+      { "label": "ICT_2018", "action": "paper:ICT_2018" },
+      { "label": "ICT_2017", "action": "paper:ICT_2017" },
+      { "label": "ICT_2016", "action": "paper:ICT_2016" },
+      { "label": "ICT_2015", "action": "paper:ICT_2015" },
+      { "label": "පෙර_මෙනුවට", "action": "subjectMenu" }
+    ]
+  },
+
+  "agriMenu": {
+    "text": "වර්ෂය තෝරන්න 🔽✅",
+    "buttons": [
+      { "label": "කෘෂිකර්මය_2024", "action": "paper:කෘෂිකර්මය_2024" },
+      { "label": "කෘෂිකර්මය_2023", "action": "paper:කෘෂිකර්මය_2023" },
+      { "label": "කෘෂිකර්මය_2022", "action": "paper:කෘෂිකර්මය_2022" },
+      { "label": "කෘෂිකර්මය_2021", "action": "paper:කෘෂිකර්මය_2021" },
+      { "label": "කෘෂිකර්මය_2020", "action": "paper:කෘෂිකර්මය_2020" },
+      { "label": "කෘෂිකර්මය_2019", "action": "paper:කෘෂිකර්මය_2019" },
+      { "label": "කෘෂිකර්මය_2018", "action": "paper:කෘෂිකර්මය_2018" },
+      { "label": "කෘෂිකර්මය_2017", "action": "paper:කෘෂිකර්මය_2017" },
+      { "label": "කෘෂිකර්මය_2016", "action": "paper:කෘෂිකර්මය_2016" },
+      { "label": "කෘෂිකර්මය_2015", "action": "paper:කෘෂිකර්මය_2015" },
+      { "label": "පෙර_මෙනුවට", "action": "subjectMenu" }
+    ]
+  },
+
+  "healthMenu": {
+    "text": "වර්ෂය තෝරන්න 🔽✅",
+    "buttons": [
+      { "label": "සෞඛ්‍ය_2024", "action": "paper:සෞඛ්‍ය_2024" },
+      { "label": "සෞඛ්‍ය_2023", "action": "paper:සෞඛ්‍ය_2023" },
+      { "label": "සෞඛ්‍ය_2022", "action": "paper:සෞඛ්‍ය_2022" },
+      { "label": "සෞඛ්‍ය_2021", "action": "paper:සෞඛ්‍ය_2021" },
+      { "label": "සෞඛ්‍ය_2020", "action": "paper:සෞඛ්‍ය_2020" },
+      { "label": "සෞඛ්‍ය_2019", "action": "paper:සෞඛ්‍ය_2019" },
+      { "label": "සෞඛ්‍ය_2018", "action": "paper:සෞඛ්‍ය_2018" },
+      { "label": "සෞඛ්‍ය_2017", "action": "paper:සෞඛ්‍ය_2017" },
+      { "label": "සෞඛ්‍ය_2016", "action": "paper:සෞඛ්‍ය_2016" },
+      { "label": "සෞඛ්‍ය_2015", "action": "paper:සෞඛ්‍ය_2015" },
+      { "label": "පෙර_මෙනුවට", "action": "subjectMenu" }
+    ]
+  },
+
+  "homeEcoMenu": {
+    "text": "වර්ෂය තෝරන්න 🔽✅",
+    "buttons": [
+      { "label": "ගෘහ_විද්‍යාව_2024", "action": "paper:ගෘහ_විද්‍යාව_2024" },
+      { "label": "ගෘහ_විද්‍යාව_2023", "action": "paper:ගෘහ_විද්‍යාව_2023" },
+      { "label": "ගෘහ_විද්‍යාව_2022", "action": "paper:ගෘහ_විද්‍යාව_2022" },
+      { "label": "ගෘහ_විද්‍යාව_2021", "action": "paper:ගෘහ_විද්‍යාව_2021" },
+      { "label": "ගෘහ_විද්‍යාව_2020", "action": "paper:ගෘහ_විද්‍යාව_2020" },
+      { "label": "ගෘහ_විද්‍යාව_2019", "action": "paper:ගෘහ_විද්‍යාව_2019" },
+      { "label": "ගෘහ_විද්‍යාව_2018", "action": "paper:ගෘහ_විද්‍යාව_2018" },
+      { "label": "ගෘහ_විද්‍යාව_2017", "action": "paper:ගෘහ_විද්‍යාව_2017" },
+      { "label": "ගෘහ_විද්‍යාව_2016", "action": "paper:ගෘහ_විද්‍යාව_2016" },
+      { "label": "ගෘහ_විද්‍යාව_2015", "action": "paper:ගෘහ_විද්‍යාව_2015" },
+      { "label": "පෙර_මෙනුවට", "action": "subjectMenu" }
+    ]
+  },
+
+  "mediaMenu": {
+    "text": "වර්ෂය තෝරන්න 🔽✅",
+    "buttons": [
+      { "label": "මාධ්‍ය_අධ්යනය_2024", "action": "paper:මාධ්‍ය_අධ්යනය_2024" },
+      { "label": "මාධ්‍ය_අධ්යනය_2023", "action": "paper:මාධ්‍ය_අධ්yනය_2023" },
+      { "label": "මාධ්‍ය_අධ්yනය_2022", "action": "paper:මාධ්‍ය_අධ්yනය_2022" },
+      { "label": "මාධ්‍ය_අධ්yනය_2021", "action": "paper:මාධ්‍ය_අධ්yනය_2021" },
+      { "label": "මාධ්‍ය_අධ්yනය_2020", "action": "paper:මාධ්‍ය_අධ්yනය_2020" },
+      { "label": "මාධ්‍ය_අධ්yනය_2019", "action": "paper:මාධ්‍ය_අධ්yනය_2019" },
+      { "label": "මාධ්‍ය_අධ්yනය_2018", "action": "paper:මාධ්‍ය_අධ්yනය_2018" },
+      { "label": "මාධ්‍ය_අධ්yනය_2017", "action": "paper:මාධ්‍ය_අධ්yනය_2017" },
+      { "label": "මාධ්‍ය_අධ්yනය_2016", "action": "paper:මාධ්‍ය_අධ්yනය_2016" },
+      { "label": "මාධ්‍ය_අධ්yනය_2015", "action": "paper:මාධ්‍ය_අධ්yනය_2015" },
+      { "label": "පෙර_මෙනුවට", "action": "subjectMenu" }
+    ]
+  }
+}
