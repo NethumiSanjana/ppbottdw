@@ -18,7 +18,11 @@ app.get("/test", async (req, res) => {
     res.json(reply);
 });
 require("./platforms/telegram");
-require("./platforms/discord");
+
+if (process.env.ENABLE_WA === "true") {
+  require("./platforms/discord");
+}
+
 if (process.env.ENABLE_WA === "true") {
   require("./platforms/whatsapp");
 }
